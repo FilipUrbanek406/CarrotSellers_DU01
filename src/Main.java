@@ -26,6 +26,5 @@ public class Main {
 
         System.out.println("Jméno prvního prodejce " + carrotSeller1.getName());
         System.out.println("Jméno druhého prodejce " + carrotSeller2.getName());
-
     }
 }
